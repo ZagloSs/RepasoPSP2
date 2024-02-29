@@ -1,0 +1,1 @@
+Haz un cliente y un servidor (monocliente). El cliente envía cadenas al servidor (lectura por teclado). Cuando el cliente envía la cadena "FIN" (mayúsculas o minúsculas), el servidor le responde con la cadena más larga de todas. El cliente muestra dicha cadena y termina.
